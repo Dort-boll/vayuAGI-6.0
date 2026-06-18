@@ -1,0 +1,1 @@
+"""VAYU AGI graphical interface."""
