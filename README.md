@@ -1,5 +1,9 @@
 # 🌬️ VAYU AGI 6 — Ultimate Secure Cognitive OS
 
+desgined by team vayuAGI. AGI wing of Rudratech Inc.
+
+for querries visit: https://rudratech-inc.odoo.com/
+
 Maximum intelligence = Right Model + Right Memory + Secure Routing + Self-Reflection.
 
 ## ✨ Core Features
